@@ -1,4 +1,4 @@
-# How use?
+# How to use?
 
 ```
 brew install nodejs
